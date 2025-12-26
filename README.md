@@ -16,7 +16,7 @@ Me especializo en el desarrollo de software robusto, con un fuerte enfoque en **
 
 - 🔭 Actualmente estoy trabajando en profundizar mis conocimientos en **Arquitectura Hexagonal** y **Cloud**.
 - 💡 Me motiva: La transformación digital y el impacto de la IA en el desarrollo web.
-- 🎓 **Educación:** Ingeniero Civil Informático - USM (2021-2025).
+- 🎓 **Educación:** Ingeniero Civil Informático - USM (2020-2025).
 
 ---
 
