@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner4.png" width="100%" height="300px" />
+  <img src="./banner.png" width="100%" height="300px" />
 </div>
 
 # Hola, soy Alejandro Astudillo 👋
