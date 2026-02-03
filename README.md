@@ -8,13 +8,13 @@
 
 Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras y escalables.
 
-Me especializo en el desarrollo de software robusto, con un fuerte enfoque en **Arquitectura de Software** e integración de **Modelos de Lenguaje (LLMs)**.
+Me especializo en el desarrollo de software robusto, con un fuerte enfoque en **Arquitectura de Software**.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en profundizar mis conocimientos en **Arquitectura Hexagonal** y **Cloud**.
+- 🔭 Actualmente estoy trabajando en profundizar mis conocimientos en **Arquitectura Hexagonal** y **Cloud AWS**.
 - 💡 Me motiva: La transformación digital y el impacto de la IA en el desarrollo web.
 - 🎓 **Educación:** Ingeniero Civil Informático - USM (2020-2025).
 
@@ -55,7 +55,6 @@ Mis herramientas favoritas y con las que tengo experiencia:
 Me apasiona el cruce entre la ingeniería de software tradicional y la IA moderna.
 
 *   **LLMs:** Integración y uso de modelos de lenguaje.
-*   **Data:** Procesamiento de datos con Python (NumPy).
 
 ---
 
@@ -66,12 +65,11 @@ He trabajado en entornos corporativos reales asegurando calidad y seguridad:
 *   **Banco Santander:** Migración de sistemas legacy (ASP a Angular) para el sitio privado del banco.
 *   **Caja Los Andes (CCAF Chilena):** Optimización de seguridad (mitigación XSS), actualización de stack (Node 18->22) y migración de Front-end a Angular 18 con Material.
 
-
 ---
 
 ### 📫 Conectemos
 
-Si te interesa conversar sobre **Frontend, Backend, Automatizaciones, Arquitectura de Software o IA**, ¡no dudes en contactarme!
+Si te interesa conversar sobre **Frontend, Backend, Automatizaciones, Arquitectura de Software o IA**:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-astudillo-584a071b5/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.astudilloh@gmail.com)
